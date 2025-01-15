@@ -1,5 +1,13 @@
  <h1> Alessio Arrais | Aspiring Software Developer</h1>
 
+ <h2>You can find me on:
+ <p> <a target="_blank" href="https://www.linkedin.com/in/alessio-jan-arrais-94828b253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIe0LI3zRRHKineKevKs6pw%3D%3D">
+Linkedin
+ </a></p>
+   <p>My Email: alessioarrais@gmail.com</p>
+ </h2>
+
+
  <h3>About Me:</h3>
      
  <table border="2 ">
@@ -34,15 +42,7 @@
    </td>
     </table>
 
- <h2>You can find me on:</h2>
- <h3>
- <a target="_blank" href="https://www.linkedin.com/in/alessio-jan-arrais-94828b253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIe0LI3zRRHKineKevKs6pw%3D%3D">
-Linkedin
- </a>
-   <p>My Email: alessioarrais@gmail.com</p>
- </h3>
-
-<!---
+ <!---
 AleSasso06/AleSasso06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
